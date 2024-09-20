@@ -5,7 +5,6 @@ packages:
   - git
   - gnome-photos
   - google-chrome
-  - nano
   - neofetch
   - neovim
   - postman-bin
