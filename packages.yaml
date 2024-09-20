@@ -1,0 +1,23 @@
+packages:
+  - balena-etcher
+  - base
+  - base-devel
+  - discord
+  - figma-linux
+  - git
+  - gnome-photos
+  - google-chrome
+  - gst-plugin-pipewire
+  - iwd
+  - nano
+  - neofetch
+  - neovim
+  - postman-bin
+  - python-numpy
+  - python-pip
+  - spotify
+  - telegram-desktop
+  - timeshift
+  - vim
+  - visual-studio-code-bin
+  - wget
