@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Check if the YAML file exists
-YAML_FILE="packages.yml"
+YAML_FILE="packages.yaml"
 if [[ ! -f "$YAML_FILE" ]]; then
     echo "YAML file '$YAML_FILE' not found!"
     exit 1
