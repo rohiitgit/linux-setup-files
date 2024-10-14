@@ -1,15 +1,28 @@
 packages:
+  - wofi
+  - dunst
+  - xdg-dekstop-portal
+  - polkit-kde-agent
+  - qt5-wayland
+  - qt6-wayland
+  - xdg-dekstop-portal-hyprland
+  - discord_arch_electron
+  - clipboard
+  - iwgtk
+  - blueberry
+  - mesa
+  - lib32-mesa
+  - xorg-server
+  - vulkan-intel
+  - lib32-vulkan-intel
+  - nvidia
+  - nvidia-utils
+  - egl-wayland
+  - libva-nvidia-driver
+  - nvidia-settings
   - balena-etcher
   - discord
-  - figma-linux
-  - git
-  - gnome-photos
   - google-chrome
-  - neofetch
-  - neovim
   - postman-bin
-  - spotify
   - telegram-desktop
-  - timeshift
-  - vim
   - visual-studio-code-bin
