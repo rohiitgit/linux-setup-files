@@ -1,4 +1,8 @@
 packages:
+  - xdg-desktop-portal-hyprland-git
+  - xdg-desktop-portal-gtk
+  - grim
+  - slurp
   - wofi
   - dunst
   - xdg-dekstop-portal
