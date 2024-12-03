@@ -10,7 +10,6 @@ packages:
   - qt5-wayland
   - qt6-wayland
   - xdg-dekstop-portal-hyprland
-  - discord_arch_electron
   - clipboard
   - iwgtk
   - blueberry
